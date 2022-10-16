@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexander Kolesov, @4kolesov
+- 👋 Hi, I’m Alexander Kolesov
 - 💙 I'm loving code, books, hockey, cats, cars, cs:go
 - 🌱 I’m currently learning in the Yandex.Practicum on Python backend developer
 - ⭐️ Django
