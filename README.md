@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Alexander Kolesov
 - 💙 I like code, books, hockey, hotkeys, cats, cars, cs:go
 - 🌱 I’m currently learning in the Yandex.Practicum on Python backend-developer
-- ⭐️ Python, Django ORM, Django REST Framework, API, SQL, Docker, Git, Linux, TDD
+- ⭐️ Python, REST API, Django ORM, Django REST Framework, SQL, PostgreSQL, Flask, Fast API, TDD, Unittest
+- 💻 GIT, Docker, Linux, GitHub Actions, NGINX, WSGI Gunicorn
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Contact me: [t.me/akolesov](http://akolesov.t.me "t.me/akolesov")  or 4kolesov@gmail.com
 
