@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning in the Yandex.Practicum on Python backend-developer
 - ⭐️ Python, REST API, Django ORM, Django REST Framework, SQL, PostgreSQL, Flask, Fast API, TDD, Unittest
 - 💻 GIT, Docker, Linux, GitHub Actions, NGINX, WSGI Gunicorn
-- 💞️ I’m looking to collaborate on interesting projects
 - 📫 Contact me: [t.me/akolesov](http://akolesov.t.me "t.me/akolesov")  or 4kolesov@gmail.com
 
 <!---
