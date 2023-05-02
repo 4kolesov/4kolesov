@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alexander Kolesov, Python backend-developer
 - 💙 I like code, books, hockey, hotkeys, cats, cars, cs:go
-- ⭐️ Python, REST API, Django ORM, Django REST Framework, Fast API, SQL, PostgreSQL, SQLAlchemy, TDD, Unittest
+- 👀 Object-oriented programming, REST API, TDD, Unittest, SQL, GOF patterns
+- ⭐️ Python, Django ORM, Django REST Framework, Fast API, PostgreSQL, SQLAlchemy
 - 💻 GIT, Docker, Docker-Compose, Celery, Redis, Linux, GitHub Actions, NGINX, WSGI Gunicorn
 <!-- - 📫 Contact me: [t.me/akolesov](http://akolesov.t.me "t.me/akolesov")  or 4kolesov@gmail.com -->
 
