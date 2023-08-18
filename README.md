@@ -1,4 +1,4 @@
 ```
 👋 Hi, I’m Alexander Kolesov, Python backend-developer
-💙 I like code, books, hockey, hotkeys, cats, cars, cs:go
+💙 I like books, hockey, cats, cars, cs:go, software updates, hotkeys
 ```
