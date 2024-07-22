@@ -1,5 +1,5 @@
 ```
-💙 I like books, hockey, hotkeys, cats, cars, bikes, gymkhana, cs:go, software updates
+💙 I like hockey, hotkeys, books, bikes, cats, cars, gymkhana, cs:go, software updates
 ```
 
 ```
