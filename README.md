@@ -1,5 +1,5 @@
 ```
-I like hockey, hotkeys, books, bikes, cats, cars, gymkhana, cs:go, software updates, hiking and traveling — big and small.
+I like hockey, hotkeys, books, motorcycles, cats, cars, gymkhana, cs:go, software updates, hiking and traveling — big and small.
 ```
 
 ```
